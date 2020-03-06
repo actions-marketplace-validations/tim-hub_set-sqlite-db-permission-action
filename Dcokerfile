@@ -1,0 +1,5 @@
+FROM alpine:latest
+
+COPY grant_perm.sh /grant_perm.sh
+
+ENTRYPOINT ["/grant_perm.sh"]
