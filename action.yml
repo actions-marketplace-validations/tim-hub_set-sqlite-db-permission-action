@@ -1,5 +1,8 @@
 name: 'Grant Permission for SQLite DBs'
 description: 'help the production can be easily to use SQlite db'
+branding:
+  icon: 'award'  
+  color: 'green'
 # inputs:
 #   who-to-greet:  # id of input
 #     description: 'Who to greet'
